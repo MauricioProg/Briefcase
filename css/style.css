@@ -278,7 +278,7 @@ section{
     display: flex;
     align-items: center;
     background-color: rgba(231, 235, 218, .8);
-    background: url(/assets/cafe.jpg) no-repeat ;
+    background: url(../assets/cafe.jpg) no-repeat ;
     background-size: cover;
     background-position: center;
 }
